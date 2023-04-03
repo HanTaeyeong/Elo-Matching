@@ -1,0 +1,602 @@
+[
+    {
+        "Id": "3698fedc-9dfc-430d-88fa-bf0e477ef6f3-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1438
+    },
+    {
+        "Id": "863248c0-7778-425d-b4b1-560488130ec5-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1205
+    },
+    {
+        "Id": "b3706eae-cc3b-4001-ad16-064bb1cc12bf-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1963
+    },
+    {
+        "Id": "82cb55d5-5b32-4c4f-9e20-45df828ba918-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1304
+    },
+    {
+        "Id": "9e5c8df5-5579-4f16-a683-ee44e0d7160b-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1210
+    },
+    {
+        "Id": "e16d5cfb-63b3-4bb5-9af2-8f8294369f2f-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1546
+    },
+    {
+        "Id": "f1826eb7-f073-4c07-bbfe-ede1051928cb-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1552
+    },
+    {
+        "Id": "e82f0b34-df7a-4aaa-803f-66a44ef90514-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1988
+    },
+    {
+        "Id": "8581c3f2-658f-4fa2-8ab1-589d04a62ae6-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1873
+    },
+    {
+        "Id": "2f142836-952f-4863-98b4-9adc94942c8d-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1446
+    },
+    {
+        "Id": "42938d33-bf3f-414b-9a89-e03777596373-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1624
+    },
+    {
+        "Id": "057c3b5f-5cb7-4b8c-86aa-7c295894f8cb-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1212
+    },
+    {
+        "Id": "9c743b3e-3e40-4133-867c-0f7ac1513081-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1403
+    },
+    {
+        "Id": "650c6058-9aa3-4ce7-ac24-69c67b6913b0-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1038
+    },
+    {
+        "Id": "340be76d-39f5-49f3-a864-d200d953fd51-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1765
+    },
+    {
+        "Id": "958a8492-5133-431a-a66a-5575ce95e63c-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1106
+    },
+    {
+        "Id": "7756abc7-77b5-42a9-ae3f-001bd86d647d-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1237
+    },
+    {
+        "Id": "ad18d2d5-58a6-4a0e-83bf-102331a6737b-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1242
+    },
+    {
+        "Id": "38547f80-d3c1-4a98-9323-d8fcf144fa60-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1598
+    },
+    {
+        "Id": "410308f9-fa03-428f-b8b2-f43d9a0de2c2-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1701
+    },
+    {
+        "Id": "0aefc22f-65d8-4887-b722-9f3883b2e198-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1090
+    },
+    {
+        "Id": "18d13852-7f8a-40df-8d50-10a9172878a3-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1403
+    },
+    {
+        "Id": "37fcad5e-84af-4a68-9869-d3516a6dd8d2-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1827
+    },
+    {
+        "Id": "802692fc-0934-497f-9e4a-b05ede836c03-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1788
+    },
+    {
+        "Id": "7c9c76a0-db01-41e0-b656-7104b1a0bca6-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1716
+    },
+    {
+        "Id": "85b0034a-a7b0-4b60-a30f-dce9718b693c-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1411
+    },
+    {
+        "Id": "85e40a76-9c46-48ff-bdbb-5b279aabb5ac-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1644
+    },
+    {
+        "Id": "9c91f647-81da-4a80-bd42-617b8d98d91b-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1664
+    },
+    {
+        "Id": "20f213ae-84d0-4b2a-817a-186ed3b10791-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1885
+    },
+    {
+        "Id": "cb16117b-9163-4825-80ac-7b1e9393e223-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1505
+    },
+    {
+        "Id": "50ddc958-0ee9-4630-a4e7-2c3edf54e681-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1882
+    },
+    {
+        "Id": "43336edb-beb1-4116-b425-0e8e5522a3e2-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1785
+    },
+    {
+        "Id": "d2de41fe-c7d1-4142-a9a0-9fe4adaa608c-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1853
+    },
+    {
+        "Id": "7e08faa5-edc8-43c5-a57f-4766e7caf4dc-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1665
+    },
+    {
+        "Id": "5fbdd607-aa26-4936-952a-5885fe143942-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1639
+    },
+    {
+        "Id": "559fa440-ed57-45cf-a819-90b948e153b0-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1864
+    },
+    {
+        "Id": "25b52073-4da3-4601-a07c-e0a64e17b56b-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1951
+    },
+    {
+        "Id": "35ca8afb-14a7-424c-b0d9-2add8efdead3-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1791
+    },
+    {
+        "Id": "7845c1c9-b5da-4124-9dc2-722cbc9e7270-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1325
+    },
+    {
+        "Id": "9c536e36-eb99-4661-bdba-2ef27c0c8d1a-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1257
+    },
+    {
+        "Id": "fb511025-3cee-4209-a9f8-687c14af585b-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1873
+    },
+    {
+        "Id": "5ea425a1-4658-4877-bba7-ee022e730bb9-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1906
+    },
+    {
+        "Id": "aed9db80-0ba6-41aa-ae8e-b0d5a6634a74-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1678
+    },
+    {
+        "Id": "ba4e274b-05ad-40c6-b54c-f250a0c00d44-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1747
+    },
+    {
+        "Id": "31928137-8c2c-4747-bcfe-a58efa26e7aa-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1282
+    },
+    {
+        "Id": "d01705b4-19ad-407f-afbf-007364981658-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1910
+    },
+    {
+        "Id": "cf46a07d-c0fb-474e-83e6-98b092d92520-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1544
+    },
+    {
+        "Id": "6a9ffc4f-e16e-4583-8457-872b0165621d-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1882
+    },
+    {
+        "Id": "d88f4b12-d864-4e6c-ac39-76f361809e16-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1133
+    },
+    {
+        "Id": "6ddcb113-0e58-4d20-b38f-a204a153f23c-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1592
+    },
+    {
+        "Id": "f3f3ff75-0b05-4d42-8c4c-a7763654296f-828",
+        "Score": 1500,
+        "AbilityScore": 828,
+        "GamePlayNumber": 1310
+    },
+    {
+        "Id": "bfd5c06c-5c67-48a7-a5f4-79060db2dfdc-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1251
+    },
+    {
+        "Id": "121f1cc8-1a64-4cf8-b9ee-5dcd8eaccbd0-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1845
+    },
+    {
+        "Id": "392ece81-d698-4f13-aed4-84d8fea1f7ce-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1945
+    },
+    {
+        "Id": "9ee87e55-8034-4007-b1b0-9aaeadfb7e19-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1233
+    },
+    {
+        "Id": "a0fad92e-aaee-41dd-a5de-366ef1b3ee73-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1853
+    },
+    {
+        "Id": "edc4f1f8-3f34-4324-ba85-d0b28f428d5b-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1664
+    },
+    {
+        "Id": "023b5d61-8bb7-4b3a-b1e7-de5883ecc4a4-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1382
+    },
+    {
+        "Id": "788f10b3-ad23-4baf-ac84-a2805bf2aac1-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1470
+    },
+    {
+        "Id": "22848744-1848-4e7e-89b9-ef8d3b15c735-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1665
+    },
+    {
+        "Id": "479ba14a-428e-4dfe-ab58-6c85e26255db-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1192
+    },
+    {
+        "Id": "49044637-da05-44af-ac71-b3034e355cc0-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1247
+    },
+    {
+        "Id": "caf5b857-21c9-4300-ba1d-ad81637be92e-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1683
+    },
+    {
+        "Id": "6adeba70-b308-4245-bd74-85e3afa01c79-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1844
+    },
+    {
+        "Id": "7af1a8b3-a332-4e09-8749-2df8e6768670-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1146
+    },
+    {
+        "Id": "b4989343-2394-40d2-a3f7-44451b783bb4-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1035
+    },
+    {
+        "Id": "f30b5542-317d-416b-92ea-7a133f507ede-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1210
+    },
+    {
+        "Id": "ed056065-39e7-46b4-b639-478130bb7e2b-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1155
+    },
+    {
+        "Id": "c4eb9435-a7e6-46f0-9e61-e92b8d8c591f-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1155
+    },
+    {
+        "Id": "e72c6c82-6d59-4512-b56f-b69d2a935130-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1657
+    },
+    {
+        "Id": "2a3e7bb9-a7cc-42c0-a32c-487bab5d4f6a-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1855
+    },
+    {
+        "Id": "13d33f24-dc65-4fa7-8bd6-56a180b5fb8a-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1605
+    },
+    {
+        "Id": "b9d6474d-6a94-4c3c-9700-9b2ed60ff920-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1876
+    },
+    {
+        "Id": "d535bc43-87a0-4f0b-b3c3-ded424c3746f-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1306
+    },
+    {
+        "Id": "7b647412-6d95-47c4-9e04-838919233a3d-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1785
+    },
+    {
+        "Id": "22d1adb7-19d6-478b-9953-72acb3307122-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1855
+    },
+    {
+        "Id": "56c0f740-2d85-4d48-90bb-c794ba015451-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1033
+    },
+    {
+        "Id": "20f2f85f-67f0-4159-b03d-817e573d30dd-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1938
+    },
+    {
+        "Id": "e7185894-2644-47ec-8a24-22a7b1214ba9-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1815
+    },
+    {
+        "Id": "bd844490-510e-4be1-8cca-fe5ab35ebf2a-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1855
+    },
+    {
+        "Id": "e5cf3a12-f07d-41f5-adfd-ef206ce24e42-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1842
+    },
+    {
+        "Id": "1613df57-a3f6-4430-8b9e-997ec140a484-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1298
+    },
+    {
+        "Id": "571ccde1-2b81-40f5-9162-73a48f79abb4-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1218
+    },
+    {
+        "Id": "37faccca-a6a7-4c4e-9350-5d3f72803d07-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1273
+    },
+    {
+        "Id": "12c15deb-0251-4c2b-9ce8-104ce8818656-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1448
+    },
+    {
+        "Id": "73ae787a-b79a-4b60-95c9-dd1fbb54aa68-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1979
+    },
+    {
+        "Id": "bc0ab832-f66b-4fb7-9000-3a21617275b3-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1122
+    },
+    {
+        "Id": "c0015ade-4f67-41d8-a6ec-e58eadb0b9c1-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1901
+    },
+    {
+        "Id": "a57287fc-04f3-400f-9993-042a33200123-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1064
+    },
+    {
+        "Id": "0020c363-a0a2-4784-8efe-480b6406542c-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1817
+    },
+    {
+        "Id": "5448d80a-cc5f-4c05-82b9-30fce3bfa38d-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1559
+    },
+    {
+        "Id": "fa64c123-ff95-4285-9e25-b9f77f47fd5d-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1912
+    },
+    {
+        "Id": "6618b580-7a56-42a4-804d-fb540d0569fc-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1140
+    },
+    {
+        "Id": "cd6fc43c-4ff0-4941-adaf-84d26f2539a6-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1242
+    },
+    {
+        "Id": "a5713847-68fe-4552-b2cd-8f03ae3d731a-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1654
+    },
+    {
+        "Id": "f8dabdf8-66dc-48fc-af16-190801e13b83-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1554
+    },
+    {
+        "Id": "827a4536-e629-4f28-b0f0-9068989b48df-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1868
+    },
+    {
+        "Id": "417d1e4f-8874-4a0a-ae1b-205b964d7321-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1003
+    },
+    {
+        "Id": "9a178b1c-ae76-4d07-b349-19070b8b13f5-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1519
+    },
+    {
+        "Id": "85e58a66-9eb1-4b71-9b63-5b86001bd0c5-1699",
+        "Score": 1500,
+        "AbilityScore": 1699,
+        "GamePlayNumber": 1018
+    }
+]
