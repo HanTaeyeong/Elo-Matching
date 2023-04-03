@@ -66,8 +66,8 @@ func ProceedMatch(users []string) {
 	for _, user := range aMembers {
 		cursor := userHistoryCursor[user.Id]
 		weight := func(cursor int) float64 {
-			if cursor >= 10 {
-				return K
+			if cursor <= 10 {
+				return K * 3
 			}
 			return K
 		}(cursor)
@@ -81,8 +81,8 @@ func ProceedMatch(users []string) {
 		cursor := userHistoryCursor[user.Id]
 
 		weight := func(cursor int) float64 {
-			if cursor >= 10 {
-				return K
+			if cursor <= 10 {
+				return K * 3
 			}
 			return K
 		}(cursor)
