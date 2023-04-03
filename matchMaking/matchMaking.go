@@ -6,7 +6,7 @@ import (
 	"sync"
 )
 
-const NUMBER_OF_INSTANCES = 1
+const NUMBER_OF_INSTANCES = 4
 
 type User struct {
 	Id             string
