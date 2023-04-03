@@ -3,11 +3,7 @@ package matchMaking
 import (
 	"fmt"
 	"math/rand"
-	"sync"
-	"time"
 )
-
-const NUMBER_OF_INSTANCES = 4
 
 type User struct {
 	Id             string
@@ -36,27 +32,25 @@ func InitMatchMaking() {
 	InitUserHistoryData()
 
 	fmt.Println("Start simulation")
-	Clustering()
+
+	Simulate()
 
 	WriteFileToLocal(GetUserHistoryData(), "userHistories.json")
 	fmt.Println("Finish simulation")
 }
 
-func simulateUser(wg *sync.WaitGroup, number int) {
-	defer wg.Done()
-
-	const LIMIT = int(NUMBER_OF_USERS / NUMBER_OF_INSTANCES)
+func Simulate() {
 	type CountData struct {
 		userId    string
 		gamesLeft int
 	}
-	countTable := make([]CountData, LIMIT)
-	currentTableSize := LIMIT
+	countTable := make([]CountData, NUMBER_OF_USERS)
+	currentTableSize := NUMBER_OF_USERS
 
-	for i := 0; i < LIMIT; i++ {
+	for i := 0; i < NUMBER_OF_USERS; i++ {
 		countTable[i] = CountData{
-			userId:    tempUserData[LIMIT*number+i].Id,
-			gamesLeft: tempUserData[LIMIT*number+i].GamePlayNumber,
+			userId:    tempUserData[i].Id,
+			gamesLeft: tempUserData[i].GamePlayNumber,
 		}
 	}
 
@@ -73,20 +67,6 @@ func simulateUser(wg *sync.WaitGroup, number int) {
 		}
 		countTable[randomIndex].gamesLeft -= 1
 		AddToQueue(countTable[randomIndex].userId)
-		time.Sleep(time.Duration(10+rand.Intn(10)) * time.Millisecond)
+
 	}
-
-	fmt.Println(number, "instance finished")
-}
-
-func Clustering() {
-	var wg sync.WaitGroup
-
-	wg.Add(NUMBER_OF_INSTANCES)
-
-	for i := 0; i < NUMBER_OF_INSTANCES; i++ {
-		go simulateUser(&wg, i)
-	}
-
-	wg.Wait()
 }

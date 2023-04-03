@@ -24,8 +24,8 @@ func CalcExpectedWinRate(myRating int, yourRating int) float64 {
 	return result
 }
 
-func CalcScoreAfterGame(scoreBefore int, resultPoint float64, expectedWinRate float64) int {
-	Sa := scoreBefore + int(K*(resultPoint-expectedWinRate))
+func CalcScoreAfterGame(weight float64, scoreBefore int, resultPoint float64, expectedWinRate float64) int {
+	Sa := scoreBefore + int(weight*(resultPoint-expectedWinRate))
 	return Sa
 }
 
@@ -64,14 +64,31 @@ func ProceedMatch(users []string) {
 	}
 
 	for _, user := range aMembers {
-		scoreAfter := CalcScoreAfterGame(user.Score, resultPointA, expectedWinRateA)
-		userHistoryData[user.Id][userHistoryCursor[user.Id]] = scoreAfter
+		cursor := userHistoryCursor[user.Id]
+		weight := func(cursor int) float64 {
+			if cursor >= 10 {
+				return K
+			}
+			return K
+		}(cursor)
+
+		scoreAfter := CalcScoreAfterGame(weight, user.Score, resultPointA, expectedWinRateA)
+		userHistoryData[user.Id][cursor] = scoreAfter
 		userHistoryCursor[user.Id] += 1
 		UpdateUserScore(user.Id, scoreAfter)
 	}
 	for _, user := range bMembers {
-		scoreAfter := CalcScoreAfterGame(user.Score, resultPointB, 1-expectedWinRateA)
-		userHistoryData[user.Id][userHistoryCursor[user.Id]] = scoreAfter
+		cursor := userHistoryCursor[user.Id]
+
+		weight := func(cursor int) float64 {
+			if cursor >= 10 {
+				return K
+			}
+			return K
+		}(cursor)
+
+		scoreAfter := CalcScoreAfterGame(weight, user.Score, resultPointB, 1-expectedWinRateA)
+		userHistoryData[user.Id][cursor] = scoreAfter
 		userHistoryCursor[user.Id] += 1
 		UpdateUserScore(user.Id, scoreAfter)
 	}
