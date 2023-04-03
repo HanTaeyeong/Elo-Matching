@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"math/rand"
 	"sync"
+	"time"
 )
 
 const NUMBER_OF_INSTANCES = 4
@@ -36,23 +37,9 @@ func InitMatchMaking() {
 
 	fmt.Println("Start simulation")
 	Clustering()
-	//Simulate()
 
 	WriteFileToLocal(GetUserHistoryData(), "userHistories.json")
 	fmt.Println("Finish simulation")
-}
-
-const MAX_SCORE = 100
-
-func Simulate() {
-
-	WriteFileToLocal(userHistoryData, "userHistories.json")
-
-	//10 clusters
-	// select random 0~ 1000 user
-
-	//add to matching queue with random pending times
-
 }
 
 func simulateUser(wg *sync.WaitGroup, number int) {
@@ -86,7 +73,7 @@ func simulateUser(wg *sync.WaitGroup, number int) {
 		}
 		countTable[randomIndex].gamesLeft -= 1
 		AddToQueue(countTable[randomIndex].userId)
-		//time.Sleep(time.Duration(10+rand.Intn(10)) * time.Millisecond)
+		time.Sleep(time.Duration(10+rand.Intn(10)) * time.Millisecond)
 	}
 
 	fmt.Println(number, "instance finished")

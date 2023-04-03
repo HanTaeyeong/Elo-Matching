@@ -4,6 +4,7 @@ package matchMaking
 const QueueSize = 10
 const ORDER = 100
 const EMPTY_KEY = ""
+const MAX_SCORE_RANGE = 100
 
 var matchingQueueMap = make(map[int][]string)
 
@@ -11,9 +12,9 @@ func AddToQueue(userId string) {
 	user := GetUserData(userId)
 
 	userScore := int((user.Score+50)/100) * 100
-	currentQueue := matchingQueueMap[MAX_SCORE]
+	currentQueue := matchingQueueMap[MAX_SCORE_RANGE]
 
-	if userScore < MAX_SCORE {
+	if userScore < MAX_SCORE_RANGE {
 		currentQueue = matchingQueueMap[userScore]
 	}
 
