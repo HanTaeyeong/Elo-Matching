@@ -48,6 +48,11 @@ func ProceedMatch(users []string) {
 		totalAbilityScoreB += user.AbilityScore
 	}
 
+	totalScoreA /= 5
+	totalScoreB /= 5
+	totalAbilityScoreA /= 5
+	totalAbilityScoreB /= 5
+
 	abilityWinRateA := CalcExpectedWinRate(totalAbilityScoreA, totalAbilityScoreB)
 	expectedWinRateA := CalcExpectedWinRate(totalScoreA, totalScoreB)
 

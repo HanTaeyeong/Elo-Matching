@@ -7,11 +7,11 @@ import (
 	"github.com/google/uuid"
 )
 
-const NUMBER_OF_USERS = 100
+const NUMBER_OF_USERS = 3000
 
 var userDataCache map[string]User = make(map[string]User)
 
-const MAX_GAME_PLAY = 1000
+const MAX_GAME_PLAY = 3000
 
 const DEFAUTL_SCORE = 1500
 
